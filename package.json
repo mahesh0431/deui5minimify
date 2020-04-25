@@ -1,0 +1,10 @@
+{
+  "name": "DE_UI5_MINIMIFY",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6"
+  }
+}
